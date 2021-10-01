@@ -5,5 +5,6 @@ public class GIt_test_01 {
         System.out.println("01_test");
         System.out.println("pull_test");
         System.out.println("=====================================");
+        System.out.println("gitlab-pull_test");
     }
 }
